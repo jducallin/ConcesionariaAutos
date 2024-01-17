@@ -1,0 +1,12 @@
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\Automovil.java
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\igu\RegistroAutomovil.java
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\logica\Automovil.java
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\persistencia\AutomovilJpaController.java
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\persistencia\exceptions\PreexistingEntityException.java
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\igu\ConsultaAutomovil.java
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\persistencia\ControladoraPersistencia.java
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\persistencia\exceptions\IllegalOrphanException.java
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\persistencia\exceptions\NonexistentEntityException.java
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\igu\Principal.java
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\logica\Controladora.java
+C:\Workspaces\Curso-java\CursoJava\automovil\src\main\java\com\joseangel\automovil\igu\ModifAuto.java
